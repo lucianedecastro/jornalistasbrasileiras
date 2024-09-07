@@ -51,25 +51,25 @@
           titulo: "Mylena Ciribelli",
           descricao: "Com uma carreira marcada por grandes coberturas internacionais e uma paixão inegável, ela conquistou o público com sua expertise e simpatia. Sua trajetória nas maiores emissoras do país, aliada a uma profunda compreensão do universo esportivo, a transformou em uma das mais respeitadas jornalistas da área.",
           link: "https://pt.wikipedia.org/wiki/Mylena_Ciribelli",
-          tags: "pioneira jornalismo esporte jornalista tv radio"
+          tags: "jornalismo esporte jornalista tv radio"
         },
         {
           titulo: "Mariana Becker",
           descricao: "Com uma trajetória marcada por grandes coberturas, como a Fórmula 1, ela se tornou uma referência para as novas gerações de jornalistas esportivas. Sua passagem pela Rede Globo, onde trabalhou por quase três décadas, a consolidou como uma das principais vozes do automobilismo no país. Atualmente, na Rede Bandeirantes, continua inovando e inspirando com sua cobertura apaixonada e conhecimento aprofundado do esporte.",
           link: "https://www.instagram.com/oficialmarianabecker/?hl=pt",
-          tags: "pioneira jornalismo esporte jornalista tv radio"
+          tags: "f1 surf jornalismo esporte jornalista tv radio"
         },
         {
           titulo: "Luciana Mariano",
           descricao: "Luciana Mariano é uma jornalista esportiva brasileira que fez história ao se tornar a primeira mulher a narrar jogos de futebol no Brasil. Sua paixão pelo esporte e sua trajetória profissional inspiradora, incluem passagens por diversos veículos de comunicação. Atualmente, ela é comentarista da ESPN e utiliza sua plataforma para defender a inclusão da mulher no esporte e incentivar novas gerações de meninas a seguirem seus sonhos.",
           link: "https://www.instagram.com/lucianamarianno/",
-          tags: "pioneira jornalismo esporte jornalista tv radio"
+          tags: "pioneira narradora jornalismo esporte jornalista tv radio"
         },
         {
           titulo: "Ana Thais Matos",
           descricao: "Ana Thaís Matos é uma jornalista esportiva brasileira que se tornou um ícone da representatividade feminina no esporte. Com passagens por veículos como Band e Lance!, e atualmente nos canais Globo e SporTV, ela se destaca como comentarista de futebol. Em 2022, ela fez história ao se tornar a primeira mulher a comentar um jogo do Brasil em Copas do Mundo na TV aberta, durante a partida da seleção brasileira contra a Sérvia no Qatar.",
           link: "https://www.instagram.com/anathaismatos/?hl=pt-br",
-          tags: "pioneira jornalismo esporte jornalista tv radio"
+          tags: "comentarista jornalismo esporte jornalista tv radio"
         },
       ];
                     
