@@ -1,0 +1,105 @@
+/* Variáveis de cores */
+:root {
+  --vista-blue: #007ACC;
+  --vista-blue-hover: #005FAB;
+  --white: #fff;
+  --black: #000;
+  --gray: #f0f0f0;
+  --vista-gray: #d0d0d0; /* Cor cinza claro para o estilo do Windows Vista */
+}
+
+/* Estilos globais */
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--white);
+  color: var(--black);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+
+/* Cabeçalho */
+header {
+  background-color: var(--vista-blue); /* Cor azul do Windows Vista */
+  color: var(--white);
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-family: Arial Black, sans-serif; 
+  display: inline-block; 
+  padding: 0 10px; 
+  background-color: var(--vista-blue); 
+  border-radius: 5px; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+}
+
+/* Seção principal */
+main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Formulário */
+form {
+  width: 60%; 
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+/* Botão */
+button {
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+  background-color: var(--vista-blue);
+  color: var(--white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Resultados da pesquisa */
+.resultados-pesquisa {
+  width: 80%;
+  margin-top: 20px;
+}
+
+.item-resultado {
+  border: 1px solid var(--vista-gray); /* Cor cinza do Windows Vista */
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+.item-resultado h2 {
+  font-family: Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+/* Rodapé */
+footer {
+  background-color: var(--vista-gray); /* Cor cinza do Windows Vista */
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 0;
+  line-height: 1.2;
+  font-family: Arial, sans-serif;
+}
