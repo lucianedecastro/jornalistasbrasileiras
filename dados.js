@@ -89,5 +89,41 @@
           link: "https://www.instagram.com/dudacg_/",
           tags: "comentarista jornalismo esporte jornalista tv radio"
         },
+        {
+          titulo: "Natalia Beatriz",
+          descricao: "Jornalista de formação, atua na área esportiva desde 2018como repórter de campo, comentarista, apresentadora, produtora de conteúdo, casting e social media.",
+          link: "https://www.instagram.com/nattybeatriz/profilecard/?igsh=emh2ZDJkbTJqemNr",
+          tags: "comentarista produtora jornalismo esporte jornalista tv radio"
+        },
+        {
+          titulo: "Natália Santana",
+          descricao: "Mulher, mãe e periférica. Jornalista formada pela Universidade Metodista. Primeira pessoa da família materna a conquistar uma graduação. Atua no jornalismo esportivo desde 2015. Repórter na Rede TV. Comentarista e apresentadora da Santos TV. Comenta futebol feminino, masculino e base. Cobriu a Copa do Mundo Feminina de 2023 pelo portal Terra. Atuou nas transmissões pioneiras do futebol feminino na Federação Paulista de Futebol.",
+          link: "https://www.instagram.com/nataliassantanaa?igsh=MWJ5NXJuMTJycXMzbA%3D%3D&utm_source=qr",
+          tags: "comentarista apresentadora jornalismo esporte jornalista tv radio"
+        },
+        {
+          titulo: "Bianca Molina",
+          descricao: "Jornalista, gaúcha, atua no jornalismo esportivo desde 2011. Como produtora passou pela Band RS, TV Record e FOX Sports. Já como repórter, começou na Band SP, passou por projetos como CONMEBOL TV, PrimeVideo, Cazé TV e atualmente é repórter na TNT Sports.",
+          link: "https://www.instagram.com/nataliassantanaa?igsh=MWJ5NXJuMTJycXMzbA%3D%3D&utm_source=qr",
+          tags: "apresentadora produtora jornalismo esporte jornalista tv radio"
+        },
+        {
+          titulo: "Renata Lutfi",
+          descricao: "Jornalista, com MBA em gestão no esporte e marketing, há 20 anos trabalhando com esportes. No currículo carrega 8 anos como coordenadora de comunicação do São Paulo FC, especializada em Base e Feminino, 4 anos de assessoria na PressFC com os maiores clubes do Brasil como clientes e atualmente é atendimento na FSB para Betano",
+          link: "https://www.instagram.com/relutfi?igsh=dHB3cmJvNzVxZ2U=",
+          tags: "assessoria de imprensa jornalismo esporte jornalista gestão markewting"
+        },
+        {
+          titulo: "Tayna Fiori",
+          descricao: "Trablha na cobertura esportiva, principalmente do futebol feminino, desde 2019. Atualmente atua no GE/Globo. Tem no currículo coberturas de Copas do Mundo - masculina e feminina -, Jogos Olímpicos, Champions League, Copas América e outras competições. Já atuou no rádio, site, setorismo, foi comentarista e produtora de podcast. Hoje trabalha com internet.",
+          link: "hhttps://www.instagram.com/taynafiori/",
+          tags: "setorista jornalismo esporte jornalista internet "
+        },
+        {
+          titulo: "Luciane de Castro",
+          descricao: "Jornalista, pesquisadora, curadora e roteirista. Foi curadora de exposições sobre futebol feminino em parceria com o Sesc-SP e Museu do Futebol, como: O futebol delas(2016), 60/30 - Conquistas do futebol brasileiro(2018) - Contra-Ataque! As mulheres do Futebol(2019) - Homenagem às Pioneiras/CBF(2021) - Futeboleiras do Brasil(2023) - Rainhas de Copas(2023). É autora de 3 publicações: Futebol Feminista(2021) - Histórias da Copa América Feminina(2022) - HQ: E a Boca do Luxo entra em Campo(2023).",
+          link: "https://www.linkedin.com/in/luciane-de-castro/",
+          tags: "jornalismo esporte jornalista internet pesquisa curadoria roteirista autora"
+        },
       ];
                     
