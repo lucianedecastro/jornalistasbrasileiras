@@ -103,3 +103,17 @@ footer p {
   line-height: 1.2;
   font-family: Arial, sans-serif;
 }
+/* Indicador Beta */
+#beta-indicator {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: #f0ad4e;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-transform: uppercase;
+  z-index: 10;
+}
