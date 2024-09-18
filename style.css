@@ -72,6 +72,10 @@ button {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
+button:hover { /* Efeito hover para todos os botões */
+  background-color: var(--vista-blue-hover);
+}
+
 /* Resultados da pesquisa */
 .resultados-pesquisa {
   width: 80%;
@@ -103,6 +107,19 @@ footer p {
   line-height: 1.2;
   font-family: Arial, sans-serif;
 }
+
+/* Botão do Formulário (estilizado como os outros botões) */
+#botao-formulario {
+  background-color: var(--vista-blue);
+  color: var(--white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin-top: 10px; /* Espaçamento acima do botão */
+}
+
 /* Indicador Beta */
 #beta-indicator {
   position: fixed;
@@ -110,8 +127,8 @@ footer p {
   right: 10px;
   background-color: #f0ad4e;
   color: #fff;
-  padding: 5px 10px;
-  font-size: 10px;
+  padding: 8px 15px; /* Aumentado o padding */
+  font-size: 14px; /* Fonte maior */
   font-weight: bold;
   border-radius: 5px;
   text-transform: uppercase;
