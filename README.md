@@ -22,7 +22,7 @@ Este projeto tem como objetivo criar um espaço online dedicado a celebrar e pre
 * **Integração com APIs:** Integrar o site com APIs de bibliotecas, museus e outros acervos para enriquecer o conteúdo.
 
 Acesse! 
-https://projetoimersaodevalura.vercel.app/
+https://www.jornalistasesportivasbr.com.br
 
 
 
