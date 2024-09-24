@@ -115,7 +115,7 @@
         },
         {
           titulo: "Tayna Fiori",
-          descricao: "Trablha na cobertura esportiva, principalmente do futebol feminino, desde 2019. Atualmente atua no GE/Globo. Tem no currículo coberturas de Copas do Mundo - masculina e feminina -, Jogos Olímpicos, Champions League, Copas América e outras competições. Já atuou no rádio, site, setorismo, foi comentarista e produtora de podcast. Hoje trabalha com internet.",
+          descricao: "Trabalha na cobertura esportiva, principalmente do futebol feminino, desde 2019. Atualmente atua no GE/Globo. Tem no currículo coberturas de Copas do Mundo - masculina e feminina -, Jogos Olímpicos, Champions League, Copas América e outras competições. Já atuou no rádio, site, setorismo, foi comentarista e produtora de podcast. Hoje trabalha com internet.",
           link: "hhttps://www.instagram.com/taynafiori/",
           tags: "setorista jornalismo esporte jornalista internet "
         },
@@ -124,6 +124,12 @@
           descricao: "Jornalista, pesquisadora, curadora e roteirista. Foi curadora de exposições sobre futebol feminino em parceria com o Sesc-SP e Museu do Futebol, como: O futebol delas(2016), 60/30 - Conquistas do futebol brasileiro(2018) - Contra-Ataque! As mulheres do Futebol(2019) - Homenagem às Pioneiras/CBF(2021) - Futeboleiras do Brasil(2023) - Rainhas de Copas(2023). É autora de 3 publicações: Futebol Feminista(2021) - Histórias da Copa América Feminina(2022) - HQ: E a Boca do Luxo entra em Campo(2023).",
           link: "https://www.linkedin.com/in/luciane-de-castro/",
           tags: "jornalismo esporte jornalista internet pesquisa curadoria roteirista autora"
+        },
+        {
+          titulo: "Viviane Falconi",
+          descricao: "Narradora esportiva. Em 2018, foi a vencedora do programa A narradora Lays e tornou-se a primeira mulher brasileira a narrar um jogo da Liga dos Campeões diretamente do estádio. Narrou a semifinal entre Real Madrid e Bayern de Munique direto do Santiago Bernabeu. Desde então, atua como narradora esportiva em diversos campeonatos masculinos e femininos, nacionais e internacionais",
+          link: "http://www.vivifalconi.com.br",
+          tags: "jornalismo esporte jornalista narradora"
         },
       ];
                     
