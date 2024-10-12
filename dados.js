@@ -131,5 +131,11 @@
           link: "http://www.vivifalconi.com.br",
           tags: "jornalismo esporte jornalista narradora"
         },
+        {
+          titulo: "Larissa Balieiro Pinheiro",
+          descricao: "Jornalista esportiva atuando em Manaus, no Amazonas. Está na área do esporte desde 2012 com a cobertura do futebol amazonense. Construiu uma carreira cheia de histórias e pioneirismos buscando colocar o nome da mulher no topo. Ganhou prêmios, publicou um livro e tem vários projetos da área do esporte.",
+          link: "https://www.instagram.com/p/C2v03_MNsy2/?igsh=MXMwbDRzZ2Vhc3BmaA==",
+          tags: "jornalismo esporte jornalista escritora"
+        },
       ];
                     
