@@ -122,15 +122,13 @@ footer p {
 
 /* Indicador Beta */
 #beta-indicator {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  background-color: #f0ad4e;
+  position: absolute;
+  top: 10px; /* Ajuste a posição vertical se necessário */
+  right: 10px; /* Ajuste a posição horizontal se necessário */
+  background-color: #ffcc00; /* Cor amarela de alerta */
   color: #fff;
-  padding: 8px 15px; /* Aumentado o padding */
-  font-size: 14px; /* Fonte maior */
-  font-weight: bold;
+  padding: 5px 10px;
   border-radius: 5px;
-  text-transform: uppercase;
-  z-index: 10;
+  font-weight: bold;
+  font-size: 12px; /* Ajuste o tamanho da fonte se necessário */
 }
