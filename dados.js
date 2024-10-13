@@ -137,5 +137,131 @@
           link: "https://www.instagram.com/p/C2v03_MNsy2/?igsh=MXMwbDRzZ2Vhc3BmaA==",
           tags: "jornalismo esporte jornalista escritora"
         },
+        {
+          titulo: "Bárbara Coelho",
+          descricao: "Bárbara Coelho é uma jornalista esportiva com ampla experiência em televisão, rádio e podcasts, tendo apresentado programas como Esporte Espetacular, Central da Copa e Rodada Tripla. Sua carreira é marcada pela cobertura de grandes eventos esportivos e pela versatilidade em diferentes plataformas de mídia.",
+          link: "https://www.instagram.com/barbarapcoelho/",
+          tags: "jornalismo esporte jornalista apresentadora"
+        },
+        {
+          titulo: "Vanessa Riche",
+          descricao: "Vanessa Riche é uma jornalista esportiva reconhecida por ser a primeira mulher a narrar eventos esportivos na Rede Globo, com destaque para coberturas de Jogos Olímpicos, Copas do Mundo e Pan-Americanos. Após consolidar sua carreira no SporTV, atuou na Fox Sports e hoje se dedica a projetos em rádio, mentoria de novos talentos e eventos.",
+          link: "https://www.instagram.com/vanessariche/",
+          tags: "jornalismo esporte jornalista apresentadora narradora"
+        },
+        {
+          titulo: "Domitila Becker",
+          descricao: "Domitila Becker é uma jornalista conhecida por sua paixão por viagens e por apresentar programas esportivos como o É Gol!!! e o Bom Dia SporTV. Após experiências no Grupo Globo e no UOL, trabalhou como apresentadora no SBT entre 2021 e 2023.",
+          link: "https://www.instagram.com/domibecker/",
+          tags: "jornalismo esporte jornalista apresentadora"
+        },
+        {
+          titulo: "Fernanda Maia",
+          descricao: "Fernanda Maia, conhecida inicialmente como gandula em um jogo do Botafogo, construiu uma carreira de sucesso como apresentadora e comentarista esportiva. Sua trajetória inclui passagens por Band, SBT, Lance!TV e Mix FM, além de atuar como voz oficial do Estádio Nilton Santos.",
+          link: "https://www.instagram.com/fernandamaiacarelli/",
+          tags: "jornalismo esporte jornalista apresentadora comentarista"
+        },
+        {
+          titulo: "Gabriela Moreira",
+          descricao: "Gabriela Moreira é uma jornalista premiada, com passagens por veículos como O Globo, ESPN e Grupo Globo, reconhecida por suas reportagens investigativas na área esportiva. Seus trabalhos relevantes incluem denúncias de corrupção no futebol e casos de assédio na CBF.",
+          link: "https://www.instagram.com/gabimoreira777/",
+          tags: "jornalismo esporte jornalista apresentadora repórter"
+        },
+        {
+          titulo: "Marcela Rafael",
+          descricao: "Marcela Rafael é uma jornalista esportiva com ampla experiência em televisão, tendo atuado como repórter e apresentadora em emissoras como Band News, Globo Nordeste, SBT e ESPN Brasil. Ao longo de sua carreira, destacou-se na apresentação de programas como Bate-Bola, ESPN Agora e Linha de Passe, tornando-se referência feminina na cobertura esportiva.",
+          link: "https://www.instagram.com/marcelarafael/",
+          tags: "jornalismo esporte jornalista apresentadora repórter"
+        },
+        {
+          titulo: "Marilia Ruiz",
+          descricao: "Marília Ruiz é uma jornalista esportiva com ampla experiência em diversos veículos, como Folha de S.Paulo, RedeTV!, Band e Rádio Eldorado, atuando como comentarista, debatedora e colunista. Também mantém um canal no YouTube e um blog no UOL, consolidando sua presença em múltiplas plataformas de mídia.",
+          link: "https://www.instagram.com/mariliaruizoficial/",
+          tags: "jornalismo esporte jornalista comentarista colunista"
+        },
+        {
+          titulo: "Milly Lacombe",
+          descricao: "Milly Lacombe é uma jornalista, escritora e comentarista brasileira conhecida por sua coluna no UOL, livros como O Ano em que Morri em Nova York e por abordar temas como esporte, sexualidade e masculinidade tóxica. Sua atuação na mídia e na literatura a consolidaram como uma voz influente em debates sociais e culturais.",
+          link: "https://www.instagram.com/mlacombe/",
+          tags: "jornalismo esporte jornalista comentarista colunista"
+        },
+        {
+          titulo: "Natalia Lara",
+          descricao: "Natália Lara é uma narradora esportiva reconhecida por ser pioneira na narração feminina em diversos veículos e modalidades, incluindo futebol, basquete e vôlei. Com passagens por DAZN, Disney e Grupo Globo, sua carreira é marcada pela representatividade e pela emoção em suas transmissões.",
+          link: "https://www.instagram.com/natalialaragc/",
+          tags: "jornalismo esporte jornalista narradora"
+        },
+        {
+          titulo: "Natalie Gedra",
+          descricao: "Natalie Gedra é uma jornalista esportiva com passagens marcantes por veículos como Globo, Band e ESPN Brasil, atuando como repórter e correspondente internacional, principalmente em Londres. Premiada e reconhecida por sua cobertura esportiva, atualmente trabalha no canal inglês Sky Sports.",
+          link: "https://www.instagram.com/natgedra/",
+          tags: "jornalismo esporte jornalista repórter"
+        },
+        {
+          titulo: "Paloma Tocci",
+          descricao: "Paloma Tocci é uma jornalista esportiva com extensa carreira em televisão, tendo atuado como repórter, apresentadora e âncora de programas esportivos e telejornais em emissoras como Band e RedeTV!. Reconhecida por sua versatilidade, atualmente apresenta o Jornal da Band.",
+          link: "https://www.instagram.com/palomatocci/",
+          tags: "jornalismo esporte jornalista repórter apresentadora"
+        },
+        {
+          titulo: "Renata Fan",
+          descricao: "Renata Fan é uma jornalista e apresentadora, reconhecida por comandar o programa Jogo Aberto na Band desde 2007, onde debate futebol com humor e paixão pelo esporte. Sua trajetória profissional também inclui passagens pela RecordTV e Rádio Globo, além de ter sido eleita Miss Brasil em 1999.",
+          link: "https://www.instagram.com/renatafan/",
+          tags: "jornalismo esporte jornalista repórter apresentadora"
+        },
+        {
+          titulo: "Silvia Vinhas",
+          descricao: "Silvia Vinhas é uma jornalista pioneira na cobertura esportiva brasileira, com destaque para sua atuação em Copas do Mundo, Jogos Olímpicos e na cobertura da Fórmula 1, tendo registrado momentos históricos como um treino de Ayrton Senna. Sua carreira é marcada pela presença em programas esportivos da Band, como o Show do Esporte.",
+          link: "https://www.instagram.com/silvia_vinhas/",
+          tags: "jornalismo esporte jornalista repórter apresentadora"
+        },
+        {
+          titulo: "Taynah Espinoza",
+          descricao: "Taynah Espinoza é uma jornalista esportiva que ganhou destaque como repórter e apresentadora no Esporte Interativo, onde cobriu eventos como a Copa do Mundo e finais da Liga dos Campeões. Sua carreira também inclui passagem pela Band RS, tendo iniciado como estagiária e alcançado o posto de apresentadora.",
+          link: "https://www.instagram.com/taynahespinoza/",
+          tags: "jornalismo esporte jornalista repórter apresentadora"
+        },
+        {
+          titulo: "Claudia Jacobs",
+          descricao: "Claudia Jacobs é uma jornalista com ampla experiência internacional, tendo atuado como correspondente, produtora da BBC e diretora de comunicação da Riotur. Foi a repórter que acompanhou a seleção feminina no Torneio Internacional de Futebol Feminino na China, em 1988, pelo Jornal dos Sports. Com foco em esporte e turismo, é autora de livros sobre a exportação de jogadores de futebol e um guia turístico sobre o Rio de Janeiro.",
+          link: "https://www.instagram.com/claudiasilvajacobs/",
+          tags: "jornalismo esporte jornalista repórter"
+        },
+        {
+          titulo: "Cris Dias",
+          descricao: "Cris Dias é jornalista esportiva com forte presença na televisão brasileira, tendo apresentado programas como Esporte Espetacular e Globo Esporte. Após passagens por CNN Brasil e Band, construiu uma carreira sólida na cobertura esportiva.",
+          link: "https://www.instagram.com/crisdiass/",
+          tags: "jornalismo esporte jornalista repórter"
+        },
+        {
+          titulo: "Fernanda Gentil",
+          descricao: "Fernanda Gentil é uma jornalista e apresentadora conhecida por sua trajetória versátil na TV Globo, onde comandou programas como Globo Esporte, Esporte Espetacular e Se Joga. Após 15 anos na emissora, passou a integrar a equipe da CazéTV.",
+          link: "https://www.instagram.com/gentilfernanda/",
+          tags: "jornalismo esporte jornalista repórter apresentadora"
+        },
+        {
+          titulo: "Renata Silveira",
+          descricao: "Renata Silveira fez história como a primeira narradora de futebol do Grupo Globo, tendo estreado na TV Globo durante a Copa do Brasil de 2022. Sua trajetória inclui passagens marcantes pela Rádio Globo e Fox Sports Brasil, onde se destacou na narração de jogos da Copa Libertadores e da Copa do Mundo.",
+          link: "https://www.instagram.com/renatasilveirag/",
+          tags: "jornalismo esporte jornalista narradora"
+        },
+        {
+          titulo: "Michelle Giannella",
+          descricao: "Michelle Giannella é uma jornalista com vasta experiência na cobertura esportiva, tendo atuado como apresentadora, repórter e editora na TV Gazeta e no portal Gazeta Esportiva.net. Além de sua expertise no esporte, também se dedicou ao jornalismo cultural e à advocacia.",
+          link: "https://www.instagram.com/michellegiannella/",
+          tags: "jornalismo esporte jornalista apresentadora"
+        },
+        {
+          titulo: "Isabelly Morais",
+          descricao: "Isabelly Morais é uma jornalista esportiva reconhecida por ser a primeira mulher a narrar futebol profissional no rádio mineiro. Após passagens pela Rádio Inconfidência, Fox Sports e Band, atualmente integra a equipe de esportes do Grupo Globo (SporTV e Rede Globo).",
+          link: "https://www.instagram.com/isabellymrf/",
+          tags: "jornalismo esporte jornalista narradora"
+        },
+        {
+          titulo: "Elaine Trevisan",
+          descricao: "Elaine Trevisan é narradora nos canais ESPN, mestre em Tecnologia e Novas Mídias e Doutoranda em Comunicação e Cultura pela USP.",
+          link: "https://www.instagram.com/elainetrevisan_/",
+          tags: "jornalismo esporte jornalista narradora"
+        },
       ];
                     
